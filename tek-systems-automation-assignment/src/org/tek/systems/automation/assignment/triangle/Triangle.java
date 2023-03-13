@@ -24,7 +24,7 @@ public class Triangle {
 
 // for third deliverable
 
-// Initially I implemented code like this for line 10
+// Initially I implemented code like this for line 11
 // for(int i=0;i<=noOfRows;i++)
 // When I'm working on test cases I came across issue of adding extra row for triangle at the end
-// after debugging the issue changed line 10 to for(int i=0;i<noOfRows;i++)
+// after debugging the issue changed line 11 to for(int i=0;i<noOfRows;i++)
